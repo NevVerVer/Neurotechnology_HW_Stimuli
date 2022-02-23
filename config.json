@@ -1,0 +1,8 @@
+{
+  "text":{
+    "instruction": "In this task, you will see color names that are printed in different colors. You need to respond to the color of the word and ignore the word itself.\nPress 'r' for red, 'b' for blue, 'g' for green and 'y' for yellow. Press any key to continue.",
+    "words":["red", "green", "yellow", "blue"],
+    "colors":["red", "green", "yellow", "blue"]
+  },
+  "save_dir": "."
+}
